@@ -1,3 +1,15 @@
+// This question is asked in following companies
+// Yahoo
+// Uber
+// Facebook
+// Amazon
+// Apple
+// Google
+// Paypal
+// Adobe
+// Microsoft
+// Bloomberg
+
 #include <bits/stdc++.h>
 using namespace std;
 
